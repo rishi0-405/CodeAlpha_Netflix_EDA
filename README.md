@@ -124,7 +124,7 @@ CodeAlpha_Netflix_EDA/
 Google Colab
 
 1. Open the `Netflix_EDA.ipynb` notebook.
-2. Upload the `netflix_titles.csv` dataset to your Colab session.
+2. Upload the `archive (1).zip` dataset to your Colab session.
 3. Run all notebook cells from top to bottom.
 4. Explore the generated visualizations and insights.
 
